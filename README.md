@@ -46,7 +46,7 @@ The script will terminate and display appropriate error messages in the followin
 ##Getting Started:
 
 1. Running the Script
-Launch the script using your preferred Python environment.
+Launch the script using your preferred Python environment https://github.com/ElenaGlazoff/Port_scanning/blob/main/Port_scanning.py 
 
 2. Entering Hostnames or IP Addresses
 You’ll be prompted to enter one or more hostnames or IP addresses.
